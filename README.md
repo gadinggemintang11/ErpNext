@@ -20,16 +20,16 @@ Link repo : https://github.com/gadinggemintang11/ErpNext
 ## 📸 Screenshots
 
 ### ➤ Delivery Mode Field on Sales Order
-![Delivery Mode](./screenshot-1.png)
+![Delivery Mode](./screenshot-1.jpeg)
 
 ### ➤ Validation for Shipping Address
-![Validation](./screenshot-2.png)
+![Validation](./screenshot-2.jpeg)
 
 ### ➤ Custom Button: Make Delivery Note
-![Make Delivery Note](./screenshot-3.png)
+![Make Delivery Note](./screenshot-3.jpeg)
 
 ### ➤  Popup Total
-![Popup](./screenshot-4.png)
+![Popup](./screenshot-4.jpeg)
 
 ## 💻 Technologies Used
 - ERPNext v14+ (Frappe Framework)
